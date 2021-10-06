@@ -38,3 +38,15 @@ To run the program follow these instructions:
 
 
 🅴🅽🅹🅾🆈 🆃🅷🅴 🅶🅰🅼🅴!
+
+ps: if you don't have docker, you can lauch the java program normally with the following commands:    
+
+-Open your cmd
+
+-git clone https://github.com/nicolascasiero1998/atm-machine.git   
+
+-cd atm-machine       
+
+-mvn compile exec:java -Dexec.mainClass="com.casierni.app.ATMApp"
+
+🅴🅽🅹🅾🆈 🆃🅷🅴 🅶🅰🅼🅴! pt2
