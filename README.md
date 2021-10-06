@@ -24,15 +24,17 @@ Both initialized with 1500€ and with the following banknote denomination:
 
 The system will show this initially but not during withdrawal/deposit.
 
-To run the program follow these instructions:  
+To run the program follow these instructions:     
 
-1)git clone https://github.com/nicolascasiero1998/atm-machine.git   
+-Open your cmd
 
-2)cd atm-machine    
+-git clone https://github.com/nicolascasiero1998/atm-machine.git   
 
-3)docker build -t atmimage:v1 .   
+-cd atm-machine    
 
-4)docker run -t -i atmimage:v1
+-docker build -t atmimage:v1 .   
+
+-docker run -t -i atmimage:v1
 
 
 🅴🅽🅹🅾🆈 🆃🅷🅴 🅶🅰🅼🅴!
